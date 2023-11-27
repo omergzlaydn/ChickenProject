@@ -1,14 +1,24 @@
-<h1>home page</h1>
-This project includes the homepage of a website that provides comprehensive information on chicken breeding and farm management.
-This website is designed to work seamlessly across different devices (computer, tablet, mobile) so you get the best experience on any screen size.
+# Tavuk Çiftliği Projesi
 
+Bu proje, tavuk yetiştirme ve çiftlik yönetimi konusunda kapsamlı bilgiler sunan bir web sitesinin ana sayfasını içermektedir. Bu web sitesi, farklı cihazlarda (bilgisayar, tablet, mobil) sorunsuz bir şekilde çalışacak şekilde tasarlanmıştır, böylece her ekran boyutunda en iyi deneyimi elde edebilirsiniz.
 
-<h1>used technolojies</h1>
+## Kullanılan Teknolojiler
 
-HTML
-CSS
-Bootstrap
+- HTML
+- CSS
+- Bootstrap
 
+## Proje İçeriği
 
-<h1>chickenPro</h1>
-<img src="./img/chickenPro.gif"/>
+Proje dosyaları şu şekildedir:
+
+- `index.html`: Ana sayfa HTML dosyası
+- `styles/style.css`: Proje stil dosyası
+- `img/`: Proje görsellerini içeren klasör
+- `login.html`: Giriş sayfası HTML dosyası
+- `register.html`: Kayıt ol sayfası HTML dosyası
+- `README.md`: Proje bilgilerini içeren dosya
+
+## Önizleme
+
+![Proje Önizleme](./img/chicken.gif)
